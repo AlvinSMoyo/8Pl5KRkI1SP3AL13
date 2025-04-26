@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Term_Deposit_Subscription_Prediction-blueviolet?style=for-the-badge" alt="Project Badge">
+</p>
+
 # Term Deposit Subscription Prediction Project
 
 [View the project notebook here](https://github.com/AlvinSMoyo/8Pl5KRkI1SP3AL13)
