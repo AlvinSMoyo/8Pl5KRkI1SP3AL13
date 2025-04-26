@@ -1,8 +1,20 @@
 <p align="center">
+  <strong>Predicting customer subscription to term deposits using a structured two-phase machine learning workflow, including pre-call and post-call modeling, feature engineering, and customer segment profiling.</strong>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Project-Term_Deposit_Subscription_Prediction-blueviolet?style=for-the-badge" alt="Project Badge">
 </p>
 
 # Term Deposit Subscription Prediction Project
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Machine_Learning-Yes-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/Framework-Scikit--Learn-orange?style=flat-square">
+</p>
+
 
 [View the project notebook here](https://github.com/AlvinSMoyo/8Pl5KRkI1SP3AL13)
 
@@ -70,7 +82,7 @@ The project was executed in a structured, phased approach:
 
 ---
 
-## 👨‍💻 About the Author
+## 🙏 Thank You for Reading!
 
 This project was completed by **Alvin Siphosenkosi Moyo** as part of my AI Residency at Apziva.  
 Feel free to connect with me:
@@ -82,16 +94,16 @@ Feel free to connect with me:
 
 ## 💼 Concluding Remarks
 
-This project showcases end-to-end applied machine learning expertise, including:
+This project demonstrates a strong end-to-end applied machine learning workflow, covering:
 
-- Data preprocessing, feature engineering, and balancing strategies
+- Data preprocessing, feature engineering, and class balancing strategies
 - Model benchmarking, hyperparameter tuning, and threshold optimization
-- Business-driven modeling objectives aligned with marketing goals
-- Clear communication of technical results through clean visualizations and business insights
+- Business-driven modeling objectives aligned with real-world marketing goals
+- Clear communication of technical results through visualizations and strategic insights
 
-**Hiring managers and recruiters:**  
-This project highlights my ability to build real-world, business-impactful machine learning solutions with professionalism, technical depth, and clarity.  
-I am open to global remote opportunities or Saudi-based roles in Data Science, AI, and Advanced Analytics.
+This work highlights my ability to design and deliver practical machine learning solutions with technical depth, business understanding, and clarity of presentation.
+
+Thank you for taking the time to review this project!
 
 ---
 
