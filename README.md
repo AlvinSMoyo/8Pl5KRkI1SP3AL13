@@ -28,8 +28,7 @@ The goal was to develop a two-phase predictive modeling strategy to optimize mar
 ---
 ## 📚 Dataset
 
-- Source: [Custom project dataset provided via Google Drive](https://drive.google.com/file/d/1EW-XMnGfxn-qzGtGPa3v_C63Yqj2aGf7)
-- Description: This dataset is based on the Term Deposit Marketing concept, adapted and enhanced for educational and applied machine learning purposes.
+- Description: The dataset is the term-deposit-marketing-2020 - a real world business problem. The data comes from direct marketing efforts of a European banking institution.
 - Features include customer demographics (age, job, marital status) and call campaign metadata (contact type, call duration, frequency of contact).
 
 ---
@@ -76,7 +75,8 @@ The project was executed in a structured, phased approach:
 
 ## 📈 Visual Highlights
 
-- Clear ROC and Precision-Recall curves to show model trade-offs.
+- ROC and Precision-Recall curve comparisons to show model trade-offs.
+- Confusion matrix heatmaps to embellish contrast between predicted and actual values.
 - Cluster visualizations demonstrating separable customer segments.
 - Segment success rate analysis to guide marketing resource allocation.
 
