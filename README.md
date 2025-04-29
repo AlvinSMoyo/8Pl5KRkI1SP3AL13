@@ -20,16 +20,18 @@
 
 ---
 
-## 📌 Project Overview
+## 📚 Project Overview
 
-This project was completed during my AI Residency at Apziva, focusing on predicting customer subscription to term deposit products based on customer demographics and call metadata.  
+This project was completed during my AI Residency at [Apziva](https://www.apziva.com/), focusing on predicting customer subscription to term deposit products based on customer demographics and call metadata.  
 The goal was to develop a two-phase predictive modeling strategy to optimize marketing efficiency and improve subscription rates.
 
 ---
 ## 📚 Dataset
 
-- Description: The dataset is the term-deposit-marketing-2020 - a real world business problem. The data comes from direct marketing efforts of a European banking institution.
-- Features include customer demographics (age, job, marital status) and call campaign metadata (contact type, call duration, frequency of contact).
+- **Source**: The dataset used is "term-deposit-marketing-2020," reflecting a real-world business problem.  
+- **Context**: It originates from direct marketing campaigns conducted by a European banking institution.  
+- **Features**: Include customer demographics (age, job, marital status) and call campaign metadata (contact type, call duration, frequency of contact).
+
 
 ---
 ## 🚀 Project Workflow
